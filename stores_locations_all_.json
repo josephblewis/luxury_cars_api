@@ -5,7 +5,7 @@
   "address" : "3721 E Broad Rock Rd",
   "city" : "Richmond",
   "state" : "Va",
-  "zipcode" : 23224,
+  "zipcode" : "23224",
   "latitude" : 37.50156,
   "longitude" : -77.46720,
   "emogi" : "location.fill"
@@ -16,7 +16,7 @@
   "address" : "1506 S Main St",
   "city" : "Farmville",
   "state" : "Va",
-  "zipcode" : 23901,
+  "zipcode" : "23901",
   "latitude" : 37.2830400, 
   "longitude" : -78.3926214,
   "emogi" : "location.fill"
@@ -27,7 +27,7 @@
   "address" : "207 E Main St",
   "city" : "Richmond",
   "state" : "Va",
-  "zipcode" : 23219,
+  "zipcode" : "23219",
   "latitude" : 37.5416875,
   "longitude" : -77.4423125,
   "emogi" : "location.fill"
@@ -38,7 +38,7 @@
   "address" : "701 Lynnhaven PKwy",
   "city" : "Virginia Beach",
   "state" : "Va",
-  "zipcode" : 23452,
+  "zipcode" : "23452",
   "latitude" : 36.8162169, 
   "longitude" : -76.0723231,
   "emogi" : "location.fill"
@@ -49,7 +49,7 @@
   "address" : "1480 Concord Pkwy N",
   "city" : "Concord",
   "state" : "NC",
-  "zipcode" : 28025,
+  "zipcode" : "28025",
   "latitude" : 35.4405625,  
   "longitude" : -80.6034375,
   "emogi" : "location.fill"
@@ -60,7 +60,7 @@
   "address" : "1480 Concord Pkwy N",
   "city" : "Concord",
   "state" : "NC",
-  "zipcode" : 28025,
+  "zipcode" : "28025",
   "latitude" : 35.4405625,  
   "longitude" : -80.6034375,
   "emogi" : "location.fill"
@@ -71,7 +71,7 @@
   "address" : "6801 Northlake Mall Dr",
   "city" : "Charlotte",
   "state" : "NC",
-  "zipcode" : 28216,
+  "zipcode" : "28216",
   "latitude" : 35.3526875,   
   "longitude" : -80.8511875,
   "emogi" : "location.fill"
@@ -82,7 +82,7 @@
   "address" : "6807 Midlothian Tpke",
   "city" : "Ricmond",
   "state" : "Va",
-  "zipcode" : 23225,
+  "zipcode" : "23225",
   "latitude" : 37.5001875,    
   "longitude" : -77.5196875,
   "emogi" : "location.fill"
