@@ -68,7 +68,7 @@
        {
   "id" : 7,
   "store" : "Neway",
-  "address" : "6801 Northlake Mall Dr,
+  "address" : "6801 Northlake Mall Dr",
   "city" : "Charlotte",
   "state" : "NC",
   "zipcode" : 28216,
@@ -79,7 +79,7 @@
       {
       "id" : 8,
   "store" : "Neway",
-  "address" : "6807 Midlothian Tpke,
+  "address" : "6807 Midlothian Tpke",
   "city" : "Ricmond",
   "state" : "Va",
   "zipcode" : 23225,
