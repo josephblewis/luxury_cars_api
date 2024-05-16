@@ -6,8 +6,7 @@
   "city" : "Richmond",
   "state" : "Va",
   "zipcode" : "23224",
-  "latitude" : 37.50156,
-  "longitude" : -77.46720,
+  "coordinates" : CLLocationCoordinate2D(latitude: 37.50156, longitude: 77.46720),
   "emogi" : "location.fill"
   },
      {
@@ -17,8 +16,7 @@
   "city" : "Farmville",
   "state" : "Va",
   "zipcode" : "23901",
-  "latitude" : 37.2830400, 
-  "longitude" : -78.3926214,
+  "coordinates" : CLLocationCoordinate2D(latitude: 37.2830400, longitude: -78.3926214),
   "emogi" : "location.fill"
   },
      {
@@ -28,8 +26,7 @@
   "city" : "Richmond",
   "state" : "Va",
   "zipcode" : "23219",
-  "latitude" : 37.5416875,
-  "longitude" : -77.4423125,
+  "coordinates" : CLLocationCoordinate2D(latitude: 37.5416875, longitude: -77.4423125),
   "emogi" : "location.fill"
   },
      {
@@ -39,8 +36,7 @@
   "city" : "Virginia Beach",
   "state" : "Va",
   "zipcode" : "23452",
-  "latitude" : 36.8162169, 
-  "longitude" : -76.0723231,
+  "coordinates" : CLLocationCoordinate2D(latitude: 36.8162169, longitude: -76.0723231),
   "emogi" : "location.fill"
   },
       {
@@ -50,8 +46,7 @@
   "city" : "Concord",
   "state" : "NC",
   "zipcode" : "28025",
-  "latitude" : 35.4405625,  
-  "longitude" : -80.6034375,
+  "coordinates" : CLLocationCoordinate2D(latitude: 35.4405625, longitude: -80.6034375),
   "emogi" : "location.fill"
   },
        {
@@ -61,8 +56,7 @@
   "city" : "Concord",
   "state" : "NC",
   "zipcode" : "28025",
-  "latitude" : 35.4405625,  
-  "longitude" : -80.6034375,
+  "coordinates" : CLLocationCoordinate2D(latitude: 35.4405625, longitude: -80.6034375),
   "emogi" : "location.fill"
   },
        {
@@ -72,8 +66,7 @@
   "city" : "Charlotte",
   "state" : "NC",
   "zipcode" : "28216",
-  "latitude" : 35.3526875,   
-  "longitude" : -80.8511875,
+  "coordinates" : CLLocationCoordinate2D(latitude: 35.3526875, longitude: -80.8511875),
   "emogi" : "location.fill"
   },
       {
@@ -83,8 +76,7 @@
   "city" : "Ricmond",
   "state" : "Va",
   "zipcode" : "23225",
-  "latitude" : 37.5001875,    
-  "longitude" : -77.5196875,
+  "coordinates" : CLLocationCoordinate2D(latitude: 37.5001875, longitude: -77.5196875),
   "emogi" : "location.fill"
   }
 ]
