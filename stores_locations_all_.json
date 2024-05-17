@@ -57,12 +57,12 @@
        {
   "id" : 6,
   "store" : "Neway",
-  "address" : "1480 Concord Pkwy N",
-  "city" : "Concord",
-  "state" : "NC",
-  "zipcode" : "28025",
-  "latitude" : 35.4405625,
-  "longitude" : -80.6034375,
+  "address" : "701 S Miami Ave",
+  "city" : "Miami",
+  "state" : "FL",
+  "zipcode" : "33131",
+  "latitude" : 25.7671875,
+  "longitude" : -80.1928125,
   "emogi" : "location.fill"
   },
        {
